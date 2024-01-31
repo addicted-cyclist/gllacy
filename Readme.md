@@ -1,10 +1,5 @@
 # Личный проект «Глейси»
 
-* Студент: [Антон Скрипчак](https://up.htmlacademy.ru/htmlcss-individual/1/user/2209519).
-* Наставник: [Наталья Зотова](https://htmlacademy.ru/profile/id1079951).
-
----
-
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
